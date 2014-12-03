@@ -19,8 +19,13 @@ OpenCV example
 ==============
 
 `cd /opt`
+
 `git clone https://github.com/Itseez/opencv`
+
 `cd opencv`
+
 `git checkout 2.4.9`
+
 `cp /root/build.opencv .`
+
 `./build.opencv`
